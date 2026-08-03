@@ -3,4 +3,4 @@
 this is the demo project
 
 <br>
-Author - pabitra samanta
+Author - pabitra samanta and his gang
